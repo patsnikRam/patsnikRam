@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Patrick Ramez
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me patsnik.gam@gmail.com  +965 60305561
